@@ -13,4 +13,4 @@ imagem da planilha:
 ![image](https://github.com/user-attachments/assets/16f4b683-3b3f-4269-bb50-09b198ab3422)
 
 imagem do site:
-![image](https://github.com/user-attachments/assets/767c7c86-aef9-4970-a394-6c75d15bddb9)
+![image](https://github.com/user-attachments/assets/767c7c86-aef9-4970-a394-6c75d15bddb9) 
